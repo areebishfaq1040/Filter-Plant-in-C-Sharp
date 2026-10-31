@@ -5,6 +5,7 @@ namespace Filter_Plant
     public class Customer
     {
         public int id;
+
         public string name;
         public string phone;
         public string address;
